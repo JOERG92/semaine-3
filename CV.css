@@ -1,0 +1,37 @@
+header {text-transform : uppercase;
+        height:50px;
+        line-height:50px;
+        font-family:Verdana;
+        font-size:16px;
+    }
+header {       
+    color : #000000;
+    background-color:#778899;
+    }
+    hr {
+        height:10px;
+        color:#000080;
+    }
+    h1  {
+        font-family:Verdana;
+        font-size:16px;
+        text-align:center;
+        line-height:30px;
+        color:black;
+        height:30px;
+        background-color:white;
+    }
+    body {
+         background-color:#C0C0C0;
+    }
+    h2 {
+      font-family:Verdana, monospace;
+      font-size:14px;
+    }
+footer {
+    color : #000000;
+    background-color:#778899;
+    font-family:Verdana;
+    height:30px;
+    line-height:30px;
+}
